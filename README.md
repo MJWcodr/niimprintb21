@@ -26,3 +26,4 @@ This is a fork of [niimprint](https://github.com/kjy00302/niimprint) with added 
 ## Prerequisites
 
 - Python 3.12+ compiled with bluetooth support ([Install with Bluetooth](https://stackoverflow.com/a/75203662))
+- Access to Bluetooth devices (under linux this is usually done by adding the user to the `lp` group)
